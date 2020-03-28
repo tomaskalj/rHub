@@ -1,0 +1,4 @@
+name: rHub
+main: com.pvpraids.rhub.HubPlugin
+version: 1.337
+depend: [Core]
